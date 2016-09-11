@@ -4,8 +4,6 @@ resources:
   source:
     uri: https://github.com/rfackett/flight-school
     branch: master
-    username: rfackett
-    password: g1thub0nl1n3
 
 jobs:
 - name: test-app
